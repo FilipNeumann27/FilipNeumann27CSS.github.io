@@ -1,0 +1,65 @@
+body {
+  background-color: aliceblue;
+}
+
+h2 {
+  color: green
+}
+
+.premium {
+  background-color: lightgreen;
+  color: white;
+  margin: 20px;
+  padding: 20px;
+}
+
+#vyhody{
+    background-color: gold;
+}
+
+
+h1{
+  text-align: center; 
+  font-size: 50px;
+}
+
+
+table{
+    width: 400px;
+    
+}
+table, tr, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+
+th {
+    colspan: 8;
+    background-color: wheat;
+}
+
+tfoot {
+    background-color: salmon;
+}
+
+odkaz.html, body {
+    background-color: aliceblue;
+}
+
+#welcome {
+    color: red;
+}
+
+#join {
+    color: green;
+}
+
+.red {
+    background-color: red;
+}
+
+.kalendar {
+    text-align: center;
+    
+}
